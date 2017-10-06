@@ -1,0 +1,14 @@
+{
+  "name": "lib1",
+  "version": "1.0.0",
+  "description": "first set of modules",
+  "main": "module1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shane",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0"
+  }
+}
